@@ -10,4 +10,6 @@ A resolução do projeto teve como principais etapas:
 3) Carregamento dos dados e observação geral;
 4) Análise exploratória, limpeza e transformação dos dados;
 5) Resposta às perguntas, com a criação de gráficos.
+
+A resolução do problema pode ser acessada [aqui](https://github.com/YuriKnebel/Projeto-Analise-de-recursos-humanos/blob/main/Mini-Projeto3.ipynb)
  
